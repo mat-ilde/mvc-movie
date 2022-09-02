@@ -20,12 +20,14 @@ namespace MvcMovie.Controllers
         }
 
         // GET: Movies
+        // GET: Movies
+       // GET: Movies
         public async Task<IActionResult> Index(string movieGenre, string searchString)
         {
-            //// Use LINQ to get list of genres.
-           IQueryable<string> genreQuery = from m in _context.Movie
-                                    orderby m.Genre
-                                    select m.Genre;
+            // Use LINQ to get list of genres.
+            IQueryable<string> genreQuery = from m in _context.Movie
+                                            orderby m.Genre
+                                            select m.Genre;
             var movies = from m in _context.Movie
                         select m;
 
@@ -47,7 +49,6 @@ namespace MvcMovie.Controllers
 
             return View(movieGenreVM);
         }
-
         // GET: Movies/Details/5
         public async Task<IActionResult> Details(int? id)
         {
@@ -66,7 +67,7 @@ namespace MvcMovie.Controllers
             return View(movie);
         }
 
-        // GET: Movies/Create
+        //GET: Movies/Create
         public IActionResult Create()
         {
             return View();
