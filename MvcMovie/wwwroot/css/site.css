@@ -14,5 +14,17 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+  background-image: url('/images/background2.jpg');
+  background-position:bottom;
+  background-size: contain;
 }
+table{
+  color: white
+}
+td{
+  font-style:oblique;
+  color:black
+  
+}
+
+  background-image: ;

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yO8pHKtCXjiH4VJXTUsM8URQh5bfYJP7BEprrp6mW4o=",
+  "Hash": "WvZPneev955xUVmdxvKa6OE+NXan+S4s00dxXaaaez4=",
   "Source": "MvcMovie",
   "BasePath": "_content/MvcMovie",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/home/mati/mvc-movie/MvcMovie/wwwroot/images/background.jpeg",
+      "SourceId": "MvcMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mati/mvc-movie/MvcMovie/wwwroot/",
+      "BasePath": "_content/MvcMovie",
+      "RelativePath": "images/background.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/background.jpeg"
+    },
+    {
+      "Identity": "/home/mati/mvc-movie/MvcMovie/wwwroot/images/background2.jpg",
+      "SourceId": "MvcMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mati/mvc-movie/MvcMovie/wwwroot/",
+      "BasePath": "_content/MvcMovie",
+      "RelativePath": "images/background2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/background2.jpg"
     },
     {
       "Identity": "/home/mati/mvc-movie/MvcMovie/wwwroot/js/site.js",
