@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WvZPneev955xUVmdxvKa6OE+NXan+S4s00dxXaaaez4=",
+  "Hash": "3PHizWKMhMcjmVP9AOZqyyilhKBn6x+v5fw8ki11QrI=",
   "Source": "MvcMovie",
   "BasePath": "_content/MvcMovie",
   "Mode": "Default",
@@ -83,23 +83,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
-    },
-    {
-      "Identity": "/home/mati/mvc-movie/MvcMovie/wwwroot/images/background.jpeg",
-      "SourceId": "MvcMovie",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/mati/mvc-movie/MvcMovie/wwwroot/",
-      "BasePath": "_content/MvcMovie",
-      "RelativePath": "images/background.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/background.jpeg"
     },
     {
       "Identity": "/home/mati/mvc-movie/MvcMovie/wwwroot/images/background2.jpg",
